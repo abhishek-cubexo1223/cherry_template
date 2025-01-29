@@ -1,0 +1,21 @@
+# Cherry Template
+
+A Custom Django admin template with CSS styling.
+
+## Installation
+
+You can install this package via pip:
+
+```bash
+pip install cherry-template
+
+
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'cherry_template',  # Add this line
+]

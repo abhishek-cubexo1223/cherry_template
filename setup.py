@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cherry_template",
+    name="cherry_template_app",
     version="1.0.0",
     author="Abhishek Yadav",
     author_email="abhishek.yadav@cubexo.io",

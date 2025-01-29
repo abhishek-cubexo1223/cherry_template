@@ -1,5 +1,5 @@
 include README.md
 include LICENSE
-recursive-include pyDemo_app/migrations *
-recursive-include pyDemo_app/static *
-recursive-include pyDemo_app/templates *
+recursive-include cherry_template_app/migrations *
+recursive-include cherry_template_app/static *
+recursive-include cherry_template_app/templates *
